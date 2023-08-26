@@ -92,7 +92,7 @@ svg#bigTriangleColor {
 }
 /* big triangle ends here */
 .header-top{
-    background: url(../images/bn1.jpg)0px 83px;
+    background: url(../images/heying1.jpg)0px 83px;
     background-size: cover;
     min-height: 730px;
 }
@@ -159,21 +159,21 @@ a.hd-more:hover,a.hd-more:focus {
 }
 
 .ch-img-1 { 
-    background-image: url(../images/is1.jpg);
+    background-image: url(../images/close.png);
     width: 220px;
     height: 220px;
     display: inline-block;
 }
 
 .ch-img-2 { 
-	background-image: url(../images/is3.jpg);
+	background-image: url(../images/close.png);
     width: 220px;
     height: 220px;
     display: inline-block;
 }
 
 .ch-img-3 { 
-	background-image: url(../images/is2.jpg);
+	background-image: url(../images/close.png);
     width: 220px;
     height: 220px;
     display: inline-block;
