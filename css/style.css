@@ -92,7 +92,7 @@ svg#bigTriangleColor {
 }
 /* big triangle ends here */
 .header-top{
-    background: url(../images/heying1.jpg)0px 83px;
+    background: url(../images/StarPhotoedByMatthew.jpg)0px 83px;
     background-size: cover;
     min-height: 730px;
 }
@@ -757,7 +757,7 @@ div textarea{
 }
 @media screen and (max-width:768px){
     .header-top {
-        background: url(../images/bn1.jpg)0px 82px;
+        background: url(../images/StarPhotoedByMatthew.jpg)0px 82px;
         background-size: cover;
         min-height: 500px;
     }
@@ -835,7 +835,7 @@ div textarea{
         padding-left: 0px;
     }
     .header-top {
-        background: url(../images/bn1.jpg)0px 64px;
+        background: url(../images/StarPhotoedByMatthew.jpg)0px 64px;
         background-size: cover;
         min-height: 415px;
         position: relative;
@@ -1010,7 +1010,7 @@ div textarea{
     }
     .header-top {
         min-height: 253px;
-        background: url(../images/bn1.jpg)0px 52px;
+        background: url(../images/StarPhotoedByMatthew.jpg)0px 52px;
         background-size: cover;
     }
     .head-top-text h2 {
