@@ -397,7 +397,7 @@ a.ft-log,a.ft-log:hover {
     text-decoration: none !important;
 }
 .cpyrt{
-    text-align: center;
+    text-align: right;
 }
 .cpyrt p {
     color: #fff;
@@ -428,9 +428,9 @@ ul.social li{
     display: inline;
 }
 ul.social li a{
-    background: url(../images/soc.png);
-    width: 24px;
-    height: 24px;
+    background: url(../images/qrcode.jpeg);
+    width: 100px;
+    height: 100px;
     display: inline-block;
 }
 ul.social li a.face{
